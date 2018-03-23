@@ -1,3 +1,3 @@
 export const API = {
-  BOOKS: 'https://www.googleapis.com/booksxx/v1/volumes?q=redux'
+  BOOKS: 'https://www.googleapis.com/books/v1/volumes?q=redux'
 };
